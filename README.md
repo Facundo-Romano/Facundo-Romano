@@ -1,8 +1,10 @@
+<img src="./github_banner.png" width="100%"/>
+
+<p/>
+
 ###  Hi I'm Facu! 👋
 
 ####  I'm a Full Stack Developer from Argentina 💻
-
-<img src="./github_banner.png"/>
 
 Welcome to my github! Here you can see some projects I've worked on!
 
