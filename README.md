@@ -1,4 +1,4 @@
-<img src="./github_banner.png" width="100%" boder-radius="8px"/>
+<img src="./github_banner.png" width="100%"/>
 
 <p/>
 
