@@ -2,7 +2,7 @@
 
 ####  I'm a Full Stack Developer from Argentina 💻
 
-<img src="C:\Users\cecip\Facu\Programacion\Profile README\Facundo-Romano\github_banner.png"/>
+<img src="./github_banner.png"/>
 
 Welcome to my github! Here you can see some projects I've worked on!
 
