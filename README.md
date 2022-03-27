@@ -38,9 +38,9 @@ Welcome to my github! Here you can see some projects I've worked on!
 
 <p>
 
-* <p> [<img src="./linkedin_logo.png" width="40px"/>][linkedin] LinkedIn </p>
-* <p> <img src="./whatsapp_logo.png" width="30px"/> +54 11 6276-1299 </p>
-* <p> <img src="./gmail_logo.png" width="30px"/> facuromano121299@gmail.com </p>
+<p> [<img src="./linkedin_logo.png" width="40px"/>][linkedin] LinkedIn </p>
+<p> <img src="./whatsapp_logo.png" width="30px"/> +54 11 6276-1299 </p>
+<p> <img src="./gmail_logo.png" width="30px"/> facuromano121299@gmail.com </p>
   
 </p>
 
