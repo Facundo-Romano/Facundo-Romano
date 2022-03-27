@@ -2,7 +2,7 @@
 
 <p/>
 
-###  Hi I'm Facu! 👋
+###  Hello, my name is Facundo! 👋
 
 ####  I'm a Full Stack Developer from Argentina 💻
 
