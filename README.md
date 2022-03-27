@@ -1,11 +1,8 @@
 <img src="./github_banner.png" width="100%"/>
-
-<p>
+  
 ###  I'm a Full Stack Developer from Argentina 💻
 
 #### Welcome to my github! Here you can see some projects I've worked on!
-  
-</p>
 
 ##  📖 My proyects
 ### - [Global](https://github.com/Facundo-Romano/GlobalProyect)
