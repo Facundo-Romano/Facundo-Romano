@@ -43,11 +43,10 @@ A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express,
 
 </p>
 
-##  👀 Contact me through
+##  👀 Contact
 
-- [<img src="./linkedin_logo.png" width="40px"/>][linkedin] LinkedIn
-- <img src="./whatsapp_logo.png" width="30px"/> +54 11 6276-1299
-- <img src="./gmail_logo.png" width="30px"/> facuromano121299@gmail.com
+Feel free to reach me out on [<img src="./linkedin_logo.png" width="22px"/>][linkedin], or on <img src="./whatsapp_logo.png" width="26px"/> +54 11 6276-1299 /
+<img src="./gmail_logo.png" width="26px"/> facuromano121299@gmail.com
   
 </p>
 
