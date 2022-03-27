@@ -11,7 +11,7 @@ Welcome to my github! Here you can see some projects I've worked on!
 </p>
 
 ##  📖 My proyects
-#### Global
+### Global
 <pre> 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
 
