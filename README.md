@@ -46,7 +46,7 @@ A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express,
 ##  👀 Contact
 
 Feel free to reach me out via:
-- [!LinkedIn][linkedin] 
+- [LinkedIn][linkedin] 
 - WhatsApp: +54 11 6276-1299  
 - Email: facuromano121299@gmail.com.
 
