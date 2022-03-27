@@ -34,11 +34,12 @@ Welcome to my github! Here you can see some projects I've worked on!
 
 </p>
 
+##  👀 Contact me with:
+
 <p>
-  ### Connect with me:
 
-[<img src="./linkedin_logo.png" width="22px"/>]["https://www.linkedin.com/in/facu-romano-js/"]
-
+[<img src="./linkedin_logo.png"/>][linkedin]
+  
 </p>
 
 ##  📈 Github Stats
@@ -46,3 +47,6 @@ Welcome to my github! Here you can see some projects I've worked on!
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Facundo-Romano&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Romano)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/facu-romano-js/
