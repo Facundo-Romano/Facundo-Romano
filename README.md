@@ -10,6 +10,10 @@ Welcome to my github! Here you can see some projects I've worked on!
   
 </p>
 
+##  📖 My proyects
+
+<img src="./global_gif.mp4" width="256px"/> 
+
 ##  🔧 Skills and Technologies
 
 <p>
