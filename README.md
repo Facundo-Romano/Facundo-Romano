@@ -39,8 +39,8 @@ Welcome to my github! Here you can see some projects I've worked on!
 <p>
 
 - [<img src="./linkedin_logo.png" width="40px"/>][linkedin]
-- <img src="./whatsapp_logo.png" width="40px"/> +54 11 6276-1299
-- <img src="./gmail_logo.png" width="40px"/> facuromano121299@gmail.com
+- <img src="./whatsapp_logo.png" width="30px"/> +54 11 6276-1299
+- <img src="./gmail_logo.png" width="30px"/> facuromano121299@gmail.com
   
 </p>
 
