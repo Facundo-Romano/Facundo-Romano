@@ -34,11 +34,11 @@ Welcome to my github! Here you can see some projects I've worked on!
 
 </p>
 
-##  👀 Contact me with:
+##  👀 Contact me with
 
 <p>
 
-[<img src="./linkedin_logo.png" width="22px"/>][linkedin]
+[<img src="./linkedin_logo.png" width="40px"/>][linkedin]
   
 </p>
 
