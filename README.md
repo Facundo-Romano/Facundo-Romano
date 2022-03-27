@@ -38,7 +38,7 @@ Welcome to my github! Here you can see some projects I've worked on!
 
 <p>
 
-[<img src="./linkedin_logo.png"/>][linkedin]
+[<img src="./linkedin_logo.png" width="22px"/>][linkedin]
   
 </p>
 
