@@ -1,12 +1,14 @@
 <img src="./github_banner.png" width="100%"/>
 
-<p/>
+<p>
 
 ###  Hello, my name is Facundo! 👋
 
 ####  I'm a Full Stack Developer from Argentina 💻
 
 Welcome to my github! Here you can see some projects I've worked on!
+  
+</p>
 
 ##  🔧 Skills and Technologies
 
@@ -29,6 +31,13 @@ Welcome to my github! Here you can see some projects I've worked on!
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+<p>
+  ### Connect with me:
+
+[<img src="./linkedin_logo.png" width="22px"/>]["https://www.linkedin.com/in/facu-romano-js/"]
 
 </p>
 
