@@ -11,9 +11,13 @@ Welcome to my github! Here you can see some projects I've worked on!
 </p>
 
 ##  📖 My proyects
-
-<img src="./global_gif.gif" width="256px"/> 
-
+<pre>
+- Global: 
+A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
+<img src="./global_gif.gif" width="512px"/>   <img src="./global_img1.png" width="512px"/>
+<img src="./global_img2.png" width="512px"/>   <img src="./global_img3.png" width="512px"/>
+See more at [GlobalProyect](https://github.com/Facundo-Romano/GlobalProyect)
+</pre>
 ##  🔧 Skills and Technologies
 
 <p>
