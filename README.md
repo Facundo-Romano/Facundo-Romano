@@ -6,7 +6,7 @@
 
 ##  📖 My proyects
 ### - [Global](https://github.com/Facundo-Romano/GlobalProyect)
-<pre> ![Alt Text](./global_gif.gif)
+<pre>
 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
 
@@ -54,5 +54,6 @@ Feel free to reach me out via:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Romano)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alt Text](./global_gif.gif)
 
 [linkedin]: https://www.linkedin.com/in/facu-romano-js/
