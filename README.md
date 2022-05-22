@@ -10,7 +10,7 @@
 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
 
-<img src="./Global_img1.png" width="350px"/>   <img src="./global_gif.gif" width="300px" padding="none" margin="none"/> 
+<img src="./Global_img1.png" width="350px"/>   <img src="./global_gif.gif" width="300px" height="175"/> 
 <img src="./Global_img2.png" width="350px"/>   <img src="./Global_img3.png" width="350px"/>
 </pre>
 See more about Global [here](https://github.com/Facundo-Romano/GlobalProyect).
@@ -53,7 +53,5 @@ Feel free to reach me out via:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Facundo-Romano&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Romano)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alt Text](./global_gif.gif)
 
 [linkedin]: https://www.linkedin.com/in/facu-romano-js/
