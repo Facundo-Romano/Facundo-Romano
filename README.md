@@ -6,13 +6,13 @@
 
 ##  📖 My proyects
 ### - [Global](https://github.com/Facundo-Romano/GlobalProyect)
-<pre>
+<p>
 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
 <p align="center">
 <img src="./images/global_gif.gif" width="700px"/>   <img src="./images/Global_img1.png" width="700px"/>   <img src="./images/Global_img2.png" width="700px"/>   <img src="./images/Global_img3.png" width="700px"/>
 </p>
-</pre>
+</p>
 See more about Global [here](https://github.com/Facundo-Romano/GlobalProyect).
 <br/>
 
