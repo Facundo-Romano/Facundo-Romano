@@ -9,11 +9,7 @@
 <pre>
 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
-<p align="center">
-  <img src="./global_gif.gif" width="350px"/>   
-  <img src="./Global_img1.png" width="350px"/>
-  <img src="./Global_img2.png" width="350px"/>   
-  <img src="./Global_img3.png" width="350px"/>
+<p align="center"><img src="./global_gif.gif" width="350px"/><img src="./Global_img1.png" width="350px"/><img src="./Global_img2.png" width="350px"/><img src="./Global_img3.png" width="350px"/>
 </p>
 </pre>
 See more about Global [here](https://github.com/Facundo-Romano/GlobalProyect).
