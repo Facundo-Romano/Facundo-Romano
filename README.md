@@ -42,7 +42,7 @@ See more about Global [here](https://github.com/Facundo-Romano/GlobalProyect).
 
 ##  👀 Contact
 
-Feel free to reach me out via:
+Feel free to reach out to me via:
 - [LinkedIn][linkedin] 
 - WhatsApp: +54 11 6276-1299  
 - Email: facuromano121299@gmail.com.
