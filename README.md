@@ -4,7 +4,7 @@
 
 #### Welcome to my github! Here you can see some projects I've worked on!
 
-##  📖 My proyects
+##  📖 My projects
 ### - [Global](https://github.com/Facundo-Romano/GlobalProyect)
 <p>
 
