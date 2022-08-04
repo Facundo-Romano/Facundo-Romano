@@ -5,7 +5,7 @@
 #### Welcome to my github! Here you can see some projects I've worked on!
 
 ##  📖 My projects
-### - [Global](https://github.com/Facundo-Romano/GlobalProyect)
+### - [Global](https://github.com/Facundo-Romano/GlobalProject)
 <p>
 
 A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express, React, Redux and CSS.
@@ -13,7 +13,7 @@ A responsive single page aplication (SPA) made with NodeJS, PostgreSQL, Express,
 <img src="./images/global_gif.gif" width="350px"/><img src="./images/Global_img1.png" width="350px"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/Global_img2.png" width="350px"/><img src="./images/Global_img3.png" width="350px"/>
 
 </p>
-See more about Global [here](https://github.com/Facundo-Romano/GlobalProyect).
+See more about Global [here](https://github.com/Facundo-Romano/GlobalProject).
 <br/>
 
 ##  🔧 Skills and Technologies
