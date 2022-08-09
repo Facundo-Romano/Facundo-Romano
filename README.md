@@ -2,7 +2,7 @@
   
 ###  I'm a Full Stack Developer from Argentina 💻
 
-#### Welcome to my github! Here you can see some projects I've worked on!
+#### Welcome to my github! Here you can see some projects I'm working on!
 
 ##  📖 My projects
 ### - [Global](https://github.com/Facundo-Romano/GlobalProject)
