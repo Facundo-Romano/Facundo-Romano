@@ -1,6 +1,6 @@
 <img src="./images/github_banner.png" width="100%"/>
 
-## Welcome to my github! Here you can see some projects I'm working on!
+### Welcome to my github! Here you can see some projects I'm working on!
 
 ##  🔧 Skills and Technologies
 
